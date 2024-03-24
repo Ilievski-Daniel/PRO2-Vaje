@@ -7,7 +7,8 @@ Vsaka vaja bo ločena in označena s številko ali imenom, da boste lahko enosta
 
 ## Struktura repozitorija
 Repozitorij je strukturiran na naslednji način:
-
+```
+.
 ├── Vaja_1/
 │   ├── Naloga_1.cs
 │   ├── Naloga_2.cs
@@ -17,6 +18,7 @@ Repozitorij je strukturiran na naslednji način:
 │   ├── Naloga_2.cs
 │   └── ...
 └── ...
+```
 
 Vsaka mapa predstavlja eno vajo, znotraj katere so posamezne naloge ločene v ustrezne datoteke.
 
