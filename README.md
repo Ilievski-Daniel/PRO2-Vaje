@@ -9,13 +9,13 @@ Vsaka vaja bo ločena in označena s številko ali imenom, da boste lahko enosta
 Repozitorij je strukturiran na naslednji način:
 ```
 .
-├── Vaja_1/
-│   ├── Naloga_1.cs
-│   ├── Naloga_2.cs
+├── Vaja_01/
+│   ├── Naloga_01.cs
+│   ├── Naloga_02.cs
 │   └── ...
-├── Vaja_2/
-│   ├── Naloga_1.cs
-│   ├── Naloga_2.cs
+├── Vaja_02/
+│   ├── Naloga_01.cs
+│   ├── Naloga_02.cs
 │   └── ...
 └── ...
 ```
