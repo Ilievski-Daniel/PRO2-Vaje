@@ -3,6 +3,7 @@ Dobrodošli v repozitoriju za vaje iz predmeta Programiranje 2 (PRO2).
 
 ## Namen repozitorija
 Ta repozitorij je namenjen za shranjevanje in deljenje vaj v okviru predmeta PRO2. 
+
 Vsaka vaja bo ločena in označena s številko ali imenom, da boste lahko enostavno sledili napredku.
 
 ## Struktura repozitorija
