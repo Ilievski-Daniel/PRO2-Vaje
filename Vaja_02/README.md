@@ -1,4 +1,4 @@
-# DOMAČNA NALOGA:
+# VAJA 02 - DOMAČNA NALOGA:
 
 ## 1. Naloga: 
 - Ustvari razred Izdelek, ki naj ima naslednje javne lastnosti: naziv, cena, zaloga.
