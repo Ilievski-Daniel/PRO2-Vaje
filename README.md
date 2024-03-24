@@ -23,4 +23,4 @@ Repozitorij je strukturiran na naslednji način:
 
 Vsaka mapa predstavlja eno vajo, znotraj katere so posamezne naloge ločene v ustrezne datoteke.
 
-[Repozitorij pripravil: Daniel Ilievski](https://www.linkedin.com/in/danielilievski/)
+Repozitorij pripravil: [Daniel Ilievski](https://www.linkedin.com/in/danielilievski/)
