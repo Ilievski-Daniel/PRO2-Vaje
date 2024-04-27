@@ -59,10 +59,5 @@ namespace PRO2_Vaja04b
             rezultat = f;
             textBox1.Text = rezultat.ToString();
         }
-
-        private void button10_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
