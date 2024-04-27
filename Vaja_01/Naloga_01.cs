@@ -15,7 +15,7 @@ class Program
             }
             else
             {
-                Console.WriteLine("Vneseno število je negativno.");
+                Console.WriteLine("Vneseno število je negativno, rezultat pa je: -1");
             }
         }
         else
