@@ -4,7 +4,7 @@ Potrebno je narediti enostavni kalkulator, ki bo zmožen izračunati osnovne mat
 
 Na formi se dodajo gumbi za števila (0-9), osnovne operacije (+, -, *, /), brisanje rezultata (C), izračun (=) in prikaz rezultata. Forma naj bo izgledala takole:
 
-![Calculator Image](/calc.png)
+![Calculator Image](./calc.png)
 
 Na samem začetku naj bo vrednost rezultata 0. Potem naj ima uporabnik možnost vtipkati prvo število. Lahko vtipka število dokler ne klikne na eno od neštevilčnih tipk. Če klikne na eno od operacij, se prvo število shrani in počaka na vnos drugega števila. Po vnosu drugega števila, ki se prekine s tipko za izračun '=', se izvede izračun. Če je tipka '=' izbrana takoj po vnosu prvega števila se isto število ponovi oz. ostane na zaslonu.
 
